@@ -2,10 +2,33 @@ body
 {
     color: gray;
     text-align: center;
+<<<<<<< HEAD
     font-family: "Couriel";
     margin: 0
     padding: 0;
 }
+=======
+    font-family: "Arial";
+    margin: 0
+    padding: 0;
+}
+#cabecera
+{
+    background-color: blue;
+    color: silver;
+    margin: 0;
+    padding: 0.5 em;
+}
+
+#cabecera
+{
+background-color: blue;
+color: white;
+margin: 0;
+padding: 0.5em;
+
+}
+>>>>>>> cabecera
 #container
 {
     width: 70%;
@@ -18,3 +41,8 @@ body
 fontsize; 7px;
 }
 
+<<<<<<< HEAD
+=======
+
+}
+>>>>>>> cabecera
