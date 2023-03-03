@@ -6,6 +6,22 @@ body
     margin: 0
     padding: 0;
 }
+#cabecera
+{
+    background-color: blue;
+    color: silver;
+    margin: 0;
+    padding: 0.5 em;
+}
+
+#cabecera
+{
+background-color: blue;
+color: white;
+margin: 0;
+padding: 0.5em;
+
+}
 #container
 {
     width: 70%;
