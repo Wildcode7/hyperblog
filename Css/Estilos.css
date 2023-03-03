@@ -1,6 +1,22 @@
 body
 {
-    color: blue;
+    color: gray;
     text-align: center;
     font-family: "Arial";
+    margin: 0
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-aling: center;
+    border: 1 px solidcolor blue;
+    margin: 0;
+} 
+#container h1
+fontsize; 7px;
+}
+
+
 }
